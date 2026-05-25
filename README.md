@@ -1,6 +1,6 @@
 # Entry projekt - Seznam Flutter Vývojář
 
-Toto jsou instrukce pro kandidáty na flutter vývojáře v Seznamu. Jde o velmi malý projekt určený pro otestování základních dovedností. Projekt je navržen tak, aby byl zpracovatelný pro všechny úrovně od juniora po seniora, vypracujte jej dle vlastních schopností. Není očekáváno, že každý zvládne vše na 100%.
+Toto jsou instrukce pro kandidáty na flutter vývojáře v Seznamu. Jde o velmi malý projekt určený pro otestování základních dovedností. Projekt je navržen tak, aby byl zpracovatelný pro úrovně od mediora po seniora, vypracujte jej dle vlastních schopností. Není očekáváno, že každý zvládne vše na 100%.
 
 
 ## Popis
